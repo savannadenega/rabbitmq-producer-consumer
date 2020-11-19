@@ -1,2 +1,9 @@
 # rabbitmq-producer-consumer
-Projeto que implementa um sistema de filas com a ferramenta RabbitMQ.
+
+Projeto com a utilização da ferramenta RabbitMQ.
+
+## Tecnologias utilizadas
+- Java 11
+- Springboot
+- RabbitMQ
+
